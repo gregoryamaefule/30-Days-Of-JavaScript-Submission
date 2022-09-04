@@ -1,0 +1,1 @@
+const firstName = "Gregory", lastName = "Amaefule", maritalStatus = "Single", age = 19;
