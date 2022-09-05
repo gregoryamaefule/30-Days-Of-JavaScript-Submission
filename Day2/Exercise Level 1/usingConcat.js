@@ -1,0 +1,1 @@
+console.log("30 Days of".concat(" JavaScript"))
