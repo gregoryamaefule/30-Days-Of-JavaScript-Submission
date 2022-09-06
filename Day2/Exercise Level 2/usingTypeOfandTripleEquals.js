@@ -1,0 +1,2 @@
+console.log('10' === 10);
+console.log(parseInt('10') === 10)
