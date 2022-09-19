@@ -1,0 +1,7 @@
+console.log(new Date().getFullYear())
+console.log(new Date().getMonth() + 1)
+console.log(new Date())
+console.log(new Date().getMinutes())
+console.log(new Date().getHours())
+console.log(new Date() - new Date(1970,0,1))
+console.log(new Date().getDate())
