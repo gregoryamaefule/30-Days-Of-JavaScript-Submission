@@ -1,0 +1,1 @@
+console.log(`The perimeter of the triangle is ${parseFloat(prompt('Enter side a:')) + parseFloat(prompt('Enter side b:')) + parseFloat(prompt('Enter side c:'))}`)

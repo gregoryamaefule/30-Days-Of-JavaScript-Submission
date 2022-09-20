@@ -1,0 +1,1 @@
+console.log(`Your weekly earning is ${parseFloat(prompt('Enter hours:')) * parseFloat(prompt('Enter rate per hour:'))}`)

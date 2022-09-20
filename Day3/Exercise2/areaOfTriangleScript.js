@@ -1,0 +1,1 @@
+console.log(`The area of the triangle is ${parseFloat(prompt('Enter height:')) * 0.5 * parseFloat(prompt('Enter base:'))}`)

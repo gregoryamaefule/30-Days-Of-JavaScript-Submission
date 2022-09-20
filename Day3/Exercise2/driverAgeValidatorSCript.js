@@ -1,0 +1,3 @@
+const birthYear = prompt('Enter birth year:');
+const res = (new Date().getFullYear() - new Date(birthYear, 0, 1).getFullYear() > 18) ? `You are ${new Date().getFullYear() - new Date(birthYear, 0, 1).getFullYear()}. You are old enough to drive` : `You are ${new Date().getFullYear() - new Date(birthYear, 0, 1).getFullYear()}. You will be allowed to drive after ${18 - parseInt(new Date().getFullYear() - new Date(birthYear, 0, 1).getFullYear())} years`
+console.log(res)
